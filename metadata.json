@@ -1,0 +1,12 @@
+{
+  "name": "ZARIBOOK",
+  "description": "Specialized Agriculture Social & Advisory Mobile Platform connecting Farmers, Field Officers, Agri Scientists, Dealers, and Mandi Commission Agents with AI Crop Doctor.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
